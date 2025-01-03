@@ -49,7 +49,7 @@
     "jsdom": "20.0.3",
     "modern-errors": "7.0.1",
     "modern-errors-serialize": "6.1.0",
-    "next": "14.1.2",
+    "next": "14.2.21",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tslog": "4.9.3",
